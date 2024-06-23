@@ -13,7 +13,7 @@ let products = [
     name: "Football",
     brand: "Nivia Shining Star, Size 5",
     price: "900",
-    date: "24-06-2024",
+    date: "2024-06-24",
     desc: "Premium stitched foortball for all types of terrain. Comes with a 2 month replacement policy. BUY NOW!!",
   },
 ];
